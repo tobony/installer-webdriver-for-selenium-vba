@@ -4,7 +4,7 @@ web driver를 설치합니다.
 - chrome driver와
 - MS edge driver를 설치합니다.
 
-실행 후, 선택지 1번과 2번을 선택함에 따라 해당드라이버를 Selenium Basic 설치폴더에 다운받아 복사합니다.
+실행 후, 선택지 1번과 2번을 선택함에 따라 해당드라이버를 SeleniumVBA 설치폴더에 다운받아 복사합니다.
 
 <br><br>
 
